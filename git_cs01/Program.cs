@@ -11,6 +11,8 @@ namespace git_cs01
         static void Main(string[] args)
         {
             Console.WriteLine("田中郁也");
+            Console.WriteLine("田中郁也");
+            Console.WriteLine("田中郁也");
         }
     }
 }
