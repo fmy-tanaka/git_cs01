@@ -13,8 +13,7 @@ namespace git_cs01
             Console.WriteLine("田中郁也");
             Console.WriteLine("田中郁也");
             Console.WriteLine("田中郁也");
-            Console.WriteLine("aaaaaaaaaaaaaaaaaaaaaaaaaaaa");
-            
+            Console.WriteLine("bbbbbbbbbbbbbbbb");
         }
     }
 }
